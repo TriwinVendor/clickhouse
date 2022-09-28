@@ -1,0 +1,6 @@
+{
+  "name": "clickhouse/php-clickhouse",
+  "description": "PHP ClickHouse Client",
+  "type": "library",
+  "homepage": "https://github.com/TriwinVendor/clickhouse/"
+}
