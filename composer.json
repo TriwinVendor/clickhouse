@@ -3,7 +3,7 @@
 "description": "PHP ClickHouse Client",
 "type": "library",
 "keywords": ["clickhouse", "driver", "client", "curl", "http", "HTTP client", "php"],
-"homepage": "https://github.com/TriwinVendor/clickhouse/"
+"homepage": "https://github.com/TriwinVendor/clickhouse/",
   "license": "MIT",
   "authors": [
     {
